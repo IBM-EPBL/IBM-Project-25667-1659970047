@@ -109,10 +109,33 @@ This Application has been developed to help the customer in processing and regis
 
   USER :
  They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  Each user will be assigned with  an agent.  They can view the status of their complaint.
-             
+  
+  User Page Features : 
+  1. Sign Up and Login
+  2. Raise a query
+  3. Track and view the query
+  4. Sort the query using Alphabetical ( Ascending and Descending ) and using Raised Date (Ascending and Descending )
+  5. Search a query 
+  6. Delete a query
+  7. View and Update the raised query
+  8. Logout
+  9. Delete Account
+  
+  
  ADMIN :
  The main role and responsibility of the admin are to take care of the whole process.  Starting from Admin login followed by the agent creation and assigning the customer's complaints.  Finally, He will be able to track the work assigned to the agent and a notification will be sent to the customer.
 
+ Admin Page Features : 
+ 1. Login
+ 2. View the queries raised by all features in a splitted order (Splitted by New Query, Assigned Query, Completed query)
+ 3. Update and Assign the agent to the query
+ 4. Drag and drop a query from one section to another (It automatically updates)
+ 5. Edit the query and Change the process
+ 6. Search the query
+ 7. Sort the query
+ 8. Logout
+ 
+ 
 <hr>
 
 # SOFTWARE REQUIRED <br />
